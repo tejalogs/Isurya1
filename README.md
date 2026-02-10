@@ -1,28 +1,23 @@
 <div align="center">
 
 # Hey! I am Teja 👋
-### Marketer || Content Strategist || AI Enthusiast
-
+### Marketing • Content • AI • Design
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Crafting+compelling+marketing+strategies;Building+engaging+content+experiences;Exploring+AI+and+automation;Passionate+about+UI/UX+and+web+dev" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+stuff+people+actually+want;Marketing+that+doesn't+feel+like+marketing;Exploring+AI+and+design;Creating+content+that+resonates" alt="Typing SVG" /></div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Teja** ([@tejalogs](https://github.com/tejalogs)), a **Marketer and Content Strategist** from **Vijayawada, India**. I specialize in creating **data-driven marketing campaigns**, building **engaging content strategies**, and have a strong interest in **AI, UI/UX design, and web development**.
-
-- 📊 **Marketing Strategy**: Creating impactful campaigns that drive growth and engagement
-- ✍️ **Content Strategy**: Crafting compelling narratives and content systems
-- 🤖 **AI Exploration**: Leveraging AI tools for marketing automation and optimization
-- 🎨 **UI/UX Interest**: Passionate about user experience and interface design
-- 💻 **Web Development**: Hands-on experience with HTML, CSS, JavaScript, and TypeScript
-- 📱 **Social Media**: Managing content strategy and engagement for brand growth
-- 📊 **Digital Marketing**: Running ad campaigns on Instagram, LinkedIn, and Meta platforms
-
+I'm **Teja** ([@tejalogs](https://github.com/tejalogs)). I build stuff that connects with people—mixing marketing thinking with content that actually resonates. Deep into **AI, UI/UX design, and web development**.
+- 📊 **Marketing Strategy**: Crafting campaigns that actually make people care
+- ✍️ **Content Strategy**: Writing and building content systems that work
+- 🤖 **AI Exploration**: Experimenting with AI for smarter automation and workflows
+- 🎨 **UI/UX Interest**: Obsessed with clean design and smooth user experiences
+- 💻 **Web Development**: Building with HTML, CSS, JavaScript, and TypeScript
+- 📱 **Social Media**: Creating content strategies that drive real engagement
 ---
 
 ## 🚀 Featured Projects
