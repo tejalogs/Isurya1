@@ -1,11 +1,6 @@
 <div align="center">
 
 # Hey I am Teja 👋  
-### Marketer  Content Strategist  AI Enthusiast  
-### Marketing  Content  AI  Design
-
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+stuff+people+actually+want;Marketing+that+does+not+feel+like+marketing;Exploring+AI+and+automation;Creating+content+that+drives+real+engagement" alt="Typing SVG" />
 </div>
@@ -14,10 +9,8 @@
 
 ## About Me
 
-I am **Teja** ([@tejalogs](https://github.com/tejalogs)).  
-I work at the intersection of **marketing, content, AI, and product experience**.
-
-I focus on building systems that:
+I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersection of **marketing, content, AI, and product experience**.
+And I focus on building systems that:
 - attract the right users  
 - guide them with clear UX and copy  
 - convert attention into action  
@@ -36,7 +29,7 @@ I focus on building systems that:
 
 ## Featured Projects
 
-### 🍽️ aajkameal  
+### Aajkameal  
 https://aajkameal.com  
 Practical nutrition for Indian meals.  
 Most Indian meals are not wrong, just incomplete.  
@@ -44,32 +37,32 @@ Most Indian meals are not wrong, just incomplete.
 
 ---
 
-### 💬 Second Look  
+### Second Look  
 https://trysecondlook.com  
 A communication feedback tool to reflect on real conversations and improve outcomes.  
 **Stack:** TypeScript  
 
 ---
 
-### 📱 The Social Algorithm  
+### The Social Algorithm  
 https://thesocialalgorithm.work  
 Content and marketing workflow system for social media operators.  
 **Stack:** TypeScript  
 
 ---
 
-### 🎮 Retro Games  
+### Retro Games  
 https://www.retrogames.win/  
 Classic web arcade with instant play and zero friction.  
 **Stack:** JavaScript  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" />
 
-## Tech and Skills
 
 <div align="center">
 
-**Marketing and Content**  
+## **Marketing and Content**  
+
 ![Content Strategy](https://img.shields.io/badge/Content_Strategy-0D1117?style=for-the-badge&logo=buffer&logoColor=white)
 ![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-0D1117?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-0D1117?style=for-the-badge&logo=google&logoColor=white)
@@ -77,7 +70,7 @@ Classic web arcade with instant play and zero friction.
 
 <br/>
 
-**Social and Ads**  
+## **Social and Ads**  
 ![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0D1117?style=for-the-badge&logo=meta&logoColor=white)
@@ -85,7 +78,7 @@ Classic web arcade with instant play and zero friction.
 
 <br/>
 
-**Development**  
+## **Development**  
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
@@ -94,7 +87,7 @@ Classic web arcade with instant play and zero friction.
 
 <br/>
 
-**Tools**  
+## **Tools**  
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)
