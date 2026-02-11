@@ -1,121 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=140&section=header&text=Teja&fontSize=42&fontColor=E5E7EB&animation=fadeIn" />
-</div>
 
-<div align="center">
-
-# Teja  
-**I build small products that people actually use.**  
-Marketing, UX, and AI are how I make them stick.
+# Hey I am Teja 👋  
+### Marketer  Content Strategist  AI Enthusiast  
+### Marketing  Content  AI  Design
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Shipping+products+not+just+features;Designing+flows+that+convert+attention+into+action;Using+AI+to+remove+real+friction;Building+for+return+visits+not+launch+day+claps" alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-![Builder](https://img.shields.io/badge/Builder-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Product Minded](https://img.shields.io/badge/Product%20Minded-0D1117?style=for-the-badge)
-![Marketing as UX](https://img.shields.io/badge/Marketing%20as%20UX-0D1117?style=for-the-badge)
-![AI Workflows](https://img.shields.io/badge/AI%20Workflows-0D1117?style=for-the-badge)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+stuff+people+actually+want;Marketing+that+does+not+feel+like+marketing;Exploring+AI+and+automation;Creating+content+that+drives+real+engagement" alt="Typing SVG" />
 </div>
 
 ---
 
-## What I Do
+## About Me
 
-I build small products that solve one clear problem end to end.
+I am **Teja** ([@tejalogs](https://github.com/tejalogs)).  
+I work at the intersection of **marketing, content, AI, and product experience**.
 
-I start with user confusion, design the workflow, write the copy, and ship the frontend.  
-Content and marketing are part of how the product works, not add-ons after launch.
+I focus on building systems that:
+- attract the right users  
+- guide them with clear UX and copy  
+- convert attention into action  
+- use AI to reduce manual work  
 
-I care about building things people return to, not things that only perform on launch week.
+**Core strengths**
+
+- Marketing strategy for early stage products  
+- Content systems that compound over time  
+- AI workflows for automation and insight  
+- UI UX thinking for better conversion  
+- Frontend experimentation with HTML CSS JS TypeScript  
+- Social media growth with intent not noise  
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 ### 🍽️ aajkameal  
-Practical nutrition for Indian meals  
 https://aajkameal.com  
-Most Indian meals fail on balance, not food choice.  
-This product helps close nutrition gaps without removing the food people already love.  
-**Role:** Product, UX, copy, frontend  
+Practical nutrition for Indian meals.  
+Most Indian meals are not wrong, just incomplete.  
 **Stack:** TypeScript  
 
 ---
 
 ### 💬 Second Look  
-Communication feedback tool  
 https://trysecondlook.com  
-People repeat the same communication mistakes because they never review what was actually said.  
-Second Look turns conversations into feedback loops.  
-**Role:** Product direction, UX, frontend  
+A communication feedback tool to reflect on real conversations and improve outcomes.  
 **Stack:** TypeScript  
 
 ---
 
 ### 📱 The Social Algorithm  
-Content and marketing workflows  
 https://thesocialalgorithm.work  
-Posting more is not strategy.  
-This platform helps structure content so effort compounds instead of resetting daily.  
-**Role:** Product concept, system design  
+Content and marketing workflow system for social media operators.  
 **Stack:** TypeScript  
 
 ---
 
 ### 🎮 Retro Games  
-Classic web arcade  
 https://www.retrogames.win/  
-Instant play. No installs. No friction.  
-Built for short breaks and quick returns.  
-**Role:** Frontend and game logic  
+Classic web arcade with instant play and zero friction.  
 **Stack:** JavaScript  
 
 ---
 
-## How I Think
+## Tech and Skills
 
-- distribution is a product problem  
-- copy is interface design  
-- good UX reduces marketing cost  
-- AI should remove work, not add novelty  
+**Marketing and Content**  
+Content Strategy  
+Digital Marketing  
+SEO  
+AI Tools  
 
----
+**Social and Ads**  
+Instagram  
+LinkedIn  
+Meta Ads  
+Google Search Console  
 
-## What I’m Actively Improving
-
-- designing flows people come back to  
-- building distribution into the product from day one  
-- using AI to automate boring steps in workflows  
-- shipping faster with smaller surface area  
-
----
-
-## Tech I Use
-
+**Development**  
 HTML  
 CSS  
 JavaScript  
 TypeScript  
-Figma  
+Python  
+
+**Tools**  
+Git  
 GitHub  
-AI workflows  
+Figma  
+VS Code  
+Google Sheets  
 
 ---
 
 ## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tejalogs&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=3B82F6&text_color=E5E7EB" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejalogs&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=9CA3AF" height="165" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tejalogs&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=3B82F6&text_color=E5E7EB" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejalogs&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=9CA3AF" height="165" />
 </div>
+
+---
+
+## Currently Working On
+
+- building marketing strategy for digital products  
+- designing content systems that scale  
+- applying AI to remove repetitive work  
+- improving UX for conversion focused flows  
+- shipping small tools faster  
+- growing social channels with intent  
+
+---
+
+## Fun Facts
+
+- I enjoy turning messy ideas into clear systems  
+- I care about how attention works on the internet  
+- I use game design thinking for habit building  
+- I like building small tools more than big decks  
+- I believe UX reduces marketing cost  
 
 ---
 
@@ -133,5 +139,13 @@ AI workflows
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9CA3AF&text=Build%20things%20people%20actually%20use&height=80&fontSize=18&animation=fadeIn" />
+  <img src="https://komarev.com/ghpvc/?username=tejalogs&color=3B82F6&style=for-the-badge&label=Profile+Views" />
+</div>
+
+<div align="center">
+
+Content builds relationships  
+Relationships build trust  
+Trust compounds into revenue  
+
 </div>
