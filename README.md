@@ -6,16 +6,19 @@
 
 ---
 
-## ⚡ About Me
+## About me
 
-I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersection of **marketing, content, AI, and product experience**. I focus on building systems that:
 
-* Attract the right users  
-* Guide them with clear UX and copy  
-* Convert attention into action  
-* Use AI to reduce manual work  
+I am **Teja** ([@tejalogs](https://github.com/tejalogs)).  
+I work at the intersection of marketing, content, AI, and product experience.
 
-### Core Strengths
+I build systems that:
+- Attract the right users
+- Guide them with clear UX and copy
+- Convert attention into action
+ - Use AI to reduce manual work
+
+### Core strengths
 
 * Marketing strategy for early stage products  
 * Content systems that compound over time  
@@ -26,7 +29,7 @@ I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersec
 
 ---
 
-## 🛠️ Featured Projects
+## Featured projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -37,7 +40,7 @@ I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersec
 
 ---
 
-## 🚀 Skill Stack
+## Skill stack
 
 <div align="center">
 
@@ -61,16 +64,17 @@ I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersec
 
 ---
 
-## 📊 GitHub Activity
+## Daily life
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejalogs&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=3B82F6&text_color=E5E7EB" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejalogs&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=9CA3AF" height="165" />
+
+☕ Working → 💻 Building → 🛌 Resting
+
 </div>
 
 ---
 
-## 🏗️ Currently Working On
+## Currently working on
 
 * Building marketing strategy for digital products  
 * Designing content systems that scale  
@@ -81,7 +85,7 @@ I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersec
 
 ---
 
-## 💡 Fun Facts
+## Fun facts
 
 * I enjoy turning messy ideas into clear systems  
 * I care about how attention works on the internet  
@@ -91,7 +95,7 @@ I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersec
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
